@@ -1,3 +1,3 @@
 # 🦈🦈 DESIGN THINGS 🦈🦈
 ---
-Reusable code to implement in projects.
+Several reusable code to implement in projects.
